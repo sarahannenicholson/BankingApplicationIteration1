@@ -1,0 +1,3 @@
+1,1,579.86,EverydayAccount,7
+2,5,1093.65,IntrestAccount,2
+3,7,106.59,OmniAccount,6
